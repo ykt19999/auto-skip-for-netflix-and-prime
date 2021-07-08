@@ -80,6 +80,7 @@ export const i18nMap = {
     skip_intro: "Vorspann überspringen",
     skip_recap: "Rückblick überspringen",
     skip_ads: "Überspringen",
+    skip_intro: "Intro überspringen",
   },
   fi_FI: {
     skip_intro: "Ohita intro",
